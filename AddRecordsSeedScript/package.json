@@ -4,7 +4,7 @@
   "description": "Add records to a sandbox account through Cloud Elements.",
   "dependencies": {
     "faker": "5.1.x",
-    "axios": "0.20.x",
+    "axios": "0.21.x",
     "dotenv": "8.2.x"
   },
   "main": "addRecordsSeedScript.js",
